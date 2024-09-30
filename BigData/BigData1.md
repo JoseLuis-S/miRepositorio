@@ -2,6 +2,10 @@
 
 ![Big Data](https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/06/bigdata.jpg?width=1200&enable=upscale "Big Data")
 
+## Video sobre Big Data
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bAyrObl7TYE" frameborder="0" allowfullscreen></iframe>
+
 ## ¿Qué es Big Data?
 
 **Big Data** se refiere al gran volumen de datos estructurados y no estructurados que las organizaciones generan diariamente. Lo que realmente importa no es solo la cantidad de datos, sino cómo se procesan y analizan para obtener información valiosa y tomar decisiones. Estos datos provienen de diversas fuentes, como redes sociales, sensores, dispositivos inteligentes, transacciones comerciales, entre otros.
