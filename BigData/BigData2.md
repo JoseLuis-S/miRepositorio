@@ -1,6 +1,6 @@
 # Aplicaciones de Big Data en el mundo empresarial
 
-![Empresas](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffotos%2Fempresas&psig=AOvVaw2s-lXr5rH73xlX0DcDLMAy&ust=1727793940383000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiav5L06ogDFQAAAAAdAAAAABAE "Empresas")
+![Empresas]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffotos%2Fempresas&psig=AOvVaw2s-lXr5rH73xlX0DcDLMAy&ust=1727793940383000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiav5L06ogDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffotos%2Fempresas&psig=AOvVaw2s-lXr5rH73xlX0DcDLMAy&ust=1727793940383000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiav5L06ogDFQAAAAAdAAAAABAE) "Empresas")
 
 El **Big Data** ha revolucionado diversas industrias, permitiendo a las empresas aprovechar los datos para obtener ventajas competitivas y mejorar su rendimiento. Aquí se describen algunas de las principales aplicaciones de Big Data en el mundo empresarial.
 
