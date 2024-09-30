@@ -38,7 +38,8 @@ Big Data ha transformado la forma en que las empresas y organizaciones manejan l
 
 4. **Experiencia del cliente:** Big Data permite a las empresas entender mejor las necesidades y comportamientos de los clientes, personalizando productos y servicios en función de esta información.
 
-Para continuar viendo aplicaciones del Big Data [pulsa aqui](./BigData2.md)
+
+**Para continuar viendo aplicaciones del Big Data [pulsa aqui](./BigData2.md)**
 
 
 
