@@ -26,7 +26,7 @@ Big Data funciona gracias a una combinación de herramientas y tecnologías avan
 
 - **Visualización:** Los resultados se visualizan mediante gráficos y reportes interactivos que permiten la interpretación de grandes cantidades de datos de manera intuitiva.
 
-Para continuar viendo aplicaciones del Big Data [pulsa aqui](./BigData2)
+Para continuar viendo aplicaciones del Big Data [pulsa aqui](./BigData2.md)
 
 
 
