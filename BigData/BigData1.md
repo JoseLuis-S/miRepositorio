@@ -4,7 +4,7 @@
 
 ## Video sobre Big Data
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bAyrObl7TYE" frameborder="0" allowfullscreen></iframe>
+[Ver video en YouTube](https://www.youtube.com/watch?v=bAyrObl7TYE)
 
 ## ¿Qué es Big Data?
 
